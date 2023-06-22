@@ -5,10 +5,10 @@
 #include <cstdlib>
 
 //---------
-// Константы кторые надо менять при запуске
+// Константы
 const int MAX_BOXES = 100;
-const int MAX_ATTEMPTS = 99;
-const int SIMULATION_ITERATIONS = 100000;
+const int MAX_ATTEMPTS = 30;
+const int SIMULATION_ITERATIONS = 10000;
 
 //---------
 class box{
